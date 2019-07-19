@@ -3,7 +3,7 @@
 ## Register Tap
 
 ```
-brew tap aahmed-se/homebrew-graalvm
+brew tap chrisspelberg/homebrew-graalvm
 ```
 
 ## Install Graalvm
