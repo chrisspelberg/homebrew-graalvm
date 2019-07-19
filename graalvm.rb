@@ -1,9 +1,9 @@
 class Graalvm < Formula
   desc "GraalVM: Run Programs Faster Anywhere"
   homepage "https://www.graalvm.org/"
-  url "https://github.com/oracle/graal/releases/download/vm-1.0.0-rc11/graalvm-ce-1.0.0-rc11-macos-amd64.tar.gz"
-  sha256 "469cf77d5cc6b2000103db8ebb889a7edf6f741f8fb77a169a87420d669da5b7"
-  version "1.0.rc11"
+  url "https://github.com/oracle/graal/releases/download/vm-19.1.1/graalvm-ce-darwin-amd64-19.1.1.tar.gz"
+  sha256 "85711322866ddacda88d3a592c76520188b3d7c40b6c39cd9943856e72eb6c72"
+  version "19.1.1"
 
   bottle :unneeded
 
